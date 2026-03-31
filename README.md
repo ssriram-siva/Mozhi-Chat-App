@@ -37,7 +37,7 @@ You can try the app and send me a message in real time 💬
 ## 📸 Project Preview
 
 ### 🔐 Login Page
-![Login Page](./images/login.png)
+![Login Page](./images/loginpage.png)
 
 ### 💬 Chat Interface
 ![Chat Screen](./images/chat.png)
