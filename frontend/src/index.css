@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* DaisyUI plugin */
+@plugin "daisyui";
+
+/* Themes */
+@plugin "daisyui/theme" {
+  default: "light";
+  prefersdark: "dark";
+  themes: light, dark, cupcake, synthwave, retro;
+}
